@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/adf24-code.github.io/static/css/main.51633e7a.css",
-    "main.js": "/adf24-code.github.io/static/js/main.a5eb9abc.js",
-    "static/js/488.88407c38.chunk.js": "/adf24-code.github.io/static/js/488.88407c38.chunk.js",
-    "static/media/bg.svg": "/adf24-code.github.io/static/media/bg.e67eff33ec5ab8cbc889.svg",
-    "static/media/grouplogo.svg": "/adf24-code.github.io/static/media/grouplogo.4094196ceb54156a35fc345a6fd40740.svg",
-    "static/media/logo.svg": "/adf24-code.github.io/static/media/logo.300cd9c4e4f643edac3ebc998cb97cfc.svg",
-    "index.html": "/adf24-code.github.io/index.html",
-    "main.51633e7a.css.map": "/adf24-code.github.io/static/css/main.51633e7a.css.map",
-    "main.a5eb9abc.js.map": "/adf24-code.github.io/static/js/main.a5eb9abc.js.map",
-    "488.88407c38.chunk.js.map": "/adf24-code.github.io/static/js/488.88407c38.chunk.js.map"
+    "main.css": "/static/css/main.a175a04e.css",
+    "main.js": "/static/js/main.8a522501.js",
+    "static/js/488.88407c38.chunk.js": "/static/js/488.88407c38.chunk.js",
+    "static/media/bg.svg": "/static/media/bg.e67eff33ec5ab8cbc889.svg",
+    "static/media/grouplogo.svg": "/static/media/grouplogo.4094196ceb54156a35fc345a6fd40740.svg",
+    "static/media/logo.svg": "/static/media/logo.300cd9c4e4f643edac3ebc998cb97cfc.svg",
+    "index.html": "/index.html",
+    "main.a175a04e.css.map": "/static/css/main.a175a04e.css.map",
+    "main.8a522501.js.map": "/static/js/main.8a522501.js.map",
+    "488.88407c38.chunk.js.map": "/static/js/488.88407c38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51633e7a.css",
-    "static/js/main.a5eb9abc.js"
+    "static/css/main.a175a04e.css",
+    "static/js/main.8a522501.js"
   ]
 }
