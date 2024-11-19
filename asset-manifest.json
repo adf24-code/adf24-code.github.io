@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://adf24-code.github.io/adf24-code.github.io/static/css/main.5aff215c.css",
-    "main.js": "https://adf24-code.github.io/adf24-code.github.io/static/js/main.86c7621f.js",
-    "static/js/488.88407c38.chunk.js": "https://adf24-code.github.io/adf24-code.github.io/static/js/488.88407c38.chunk.js",
-    "static/media/bg.svg": "https://adf24-code.github.io/adf24-code.github.io/static/media/bg.e67eff33ec5ab8cbc889.svg",
-    "static/media/grouplogo.svg": "https://adf24-code.github.io/adf24-code.github.io/static/media/grouplogo.4094196ceb54156a35fc345a6fd40740.svg",
-    "static/media/logo.svg": "https://adf24-code.github.io/adf24-code.github.io/static/media/logo.300cd9c4e4f643edac3ebc998cb97cfc.svg",
-    "index.html": "https://adf24-code.github.io/adf24-code.github.io/index.html",
-    "main.5aff215c.css.map": "https://adf24-code.github.io/adf24-code.github.io/static/css/main.5aff215c.css.map",
-    "main.86c7621f.js.map": "https://adf24-code.github.io/adf24-code.github.io/static/js/main.86c7621f.js.map",
-    "488.88407c38.chunk.js.map": "https://adf24-code.github.io/adf24-code.github.io/static/js/488.88407c38.chunk.js.map"
+    "main.css": "https://adf24-code.github.io/static/css/main.5d368a19.css",
+    "main.js": "https://adf24-code.github.io/static/js/main.91518c2e.js",
+    "static/js/488.88407c38.chunk.js": "https://adf24-code.github.io/static/js/488.88407c38.chunk.js",
+    "static/media/bg.svg": "https://adf24-code.github.io/static/media/bg.e67eff33ec5ab8cbc889.svg",
+    "static/media/grouplogo.svg": "https://adf24-code.github.io/static/media/grouplogo.4094196ceb54156a35fc345a6fd40740.svg",
+    "static/media/logo.svg": "https://adf24-code.github.io/static/media/logo.300cd9c4e4f643edac3ebc998cb97cfc.svg",
+    "index.html": "https://adf24-code.github.io/index.html",
+    "main.5d368a19.css.map": "https://adf24-code.github.io/static/css/main.5d368a19.css.map",
+    "main.91518c2e.js.map": "https://adf24-code.github.io/static/js/main.91518c2e.js.map",
+    "488.88407c38.chunk.js.map": "https://adf24-code.github.io/static/js/488.88407c38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aff215c.css",
-    "static/js/main.86c7621f.js"
+    "static/css/main.5d368a19.css",
+    "static/js/main.91518c2e.js"
   ]
 }
